@@ -9,7 +9,14 @@ body {
   font-family: sans-serif;
   font-size: 14px;
   line-height: 1;
-  color: #131a26;
+  background:url(https://www.bestglss.fun/img/default.png) no-repeat center top;
+  background-size:cover;
+  background-attachment:fixed;
+  -webkit-filter: blur(15px);
+  -moz-filter: blur(15px);
+  -o-filter: blur(15px);
+  -ms-filter: blur(15px);
+  filter: blur(15px);
 }
 
 a {
