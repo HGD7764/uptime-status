@@ -5,7 +5,9 @@ window.Config = {
 
   // UptimeRobot Api Keys
   // 支持 Monitor-Specific 和 Read-Only
-  ApiKeys: [ 'u2010555-1e760472db67f99c6c77685c', ]
+  ApiKeys: [ 
+    'm793670465-6f120324f1fd6b8330201ab5', 
+  ]
 
   // 日志天数
   CountDays: 90,
@@ -19,9 +21,5 @@ window.Config = {
       text: '主站',
       url: 'https://www.bestglss.fun/'
     },
-    {
-      text: '云盘',
-      url: 'https://cloud.bestglss.fun/'
-    }，
   ],
 };
